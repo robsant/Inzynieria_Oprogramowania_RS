@@ -1,0 +1,6 @@
+harmonogram projektu - szablon.mpp 
+Projekt systemu
+opis wersji systemu
+test case
+formularz błędy
+instrukcja użytkownika
